@@ -10,7 +10,7 @@ export default function Concept() {
         <p className="my-3">Event organizers should have the possibility to really concentrate all their energy on creating a unique experience for everyone. We are trying to handle the planning and tracking part.</p>
         <p>It should be possible to quickly notify all the participants and stay connected with each other.</p>
         <p>There are always a lot of people which aren’t connected to the yesfam at first, so there should be a fast way to collect the contact data of participants.</p>
-        <p className="mt-4"><a className="cursor-pointer underline font-bold">Get in touch with us, if you want to know more -&gt;</a></p>
+        <p className="mt-4"><a href="mailto:architects@yesf.am" className="cursor-pointer underline font-bold">Get in touch with us, if you want to know more -&gt;</a></p>
       </section>
     </section>
   )
