@@ -9,6 +9,9 @@ import Head from 'next/head'
 export default function Index({ allPosts, preview }) {
   return (
     <>
+      <Head>
+        <title>YesFam Domain</title>
+      </Head>
       <Layout>
         <Container>
           <Concept />
